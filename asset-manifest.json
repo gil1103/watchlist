@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/watchlist/static/css/main.1dc28657.chunk.css",
+    "main.js": "/watchlist/static/js/main.1c570d94.chunk.js",
+    "main.js.map": "/watchlist/static/js/main.1c570d94.chunk.js.map",
+    "runtime-main.js": "/watchlist/static/js/runtime-main.9e90d30a.js",
+    "runtime-main.js.map": "/watchlist/static/js/runtime-main.9e90d30a.js.map",
+    "static/js/2.84636447.chunk.js": "/watchlist/static/js/2.84636447.chunk.js",
+    "static/js/2.84636447.chunk.js.map": "/watchlist/static/js/2.84636447.chunk.js.map",
+    "static/js/3.7311d7d7.chunk.js": "/watchlist/static/js/3.7311d7d7.chunk.js",
+    "static/js/3.7311d7d7.chunk.js.map": "/watchlist/static/js/3.7311d7d7.chunk.js.map",
+    "index.html": "/watchlist/index.html",
+    "static/css/main.1dc28657.chunk.css.map": "/watchlist/static/css/main.1dc28657.chunk.css.map",
+    "static/js/2.84636447.chunk.js.LICENSE.txt": "/watchlist/static/js/2.84636447.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/watchlist/static/media/fa-solid-900.a940d584.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e90d30a.js",
+    "static/js/2.84636447.chunk.js",
+    "static/css/main.1dc28657.chunk.css",
+    "static/js/main.1c570d94.chunk.js"
+  ]
+}
