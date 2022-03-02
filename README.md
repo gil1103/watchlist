@@ -3,8 +3,11 @@
 In this app one can search his favorite movies and add/remove from his watchlist
 
 HIGHLIGHTS
+
 -using context for global state management
+
 -fetching data from an external API (The Movie Database)
+
 -responsive web design
 
 TECHNOLOGIES
