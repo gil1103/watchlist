@@ -2,7 +2,7 @@
 
 In this app one can search his favorite movies and add/remove from his watchlist
 
-HIGHLIGHTS
+HIGHLIGHTS:
 
 -using context for global state management
 
@@ -10,10 +10,15 @@ HIGHLIGHTS
 
 -responsive web design
 
-TECHNOLOGIES
+
+TECHNOLOGIES:
+
 -Front: React-context
+
 -Style: CSS
+
 -DB: LocalStorage
+
 -App host: Github
 
 https://gil1103.github.io/watchlist/
